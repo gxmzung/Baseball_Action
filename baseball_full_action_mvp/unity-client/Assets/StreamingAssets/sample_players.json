@@ -1,0 +1,52 @@
+[
+  {
+    "id": "p001",
+    "name": "Kim Ace",
+    "position": "SP",
+    "age": 24,
+    "overall": 78,
+    "pitchingControl": 75,
+    "pitchingVelocity": 82,
+    "pitchingMovement": 77,
+    "marketValue": 350000
+  },
+  {
+    "id": "p002",
+    "name": "Lee Slugger",
+    "position": "1B",
+    "age": 26,
+    "overall": 81,
+    "contact": 73,
+    "power": 90,
+    "speed": 45,
+    "defense": 58,
+    "throwing": 61,
+    "marketValue": 420000
+  },
+  {
+    "id": "p003",
+    "name": "Park Speedster",
+    "position": "CF",
+    "age": 22,
+    "overall": 76,
+    "contact": 69,
+    "power": 52,
+    "speed": 92,
+    "defense": 84,
+    "throwing": 70,
+    "marketValue": 280000
+  },
+  {
+    "id": "p004",
+    "name": "Choi Cannon",
+    "position": "RF",
+    "age": 25,
+    "overall": 84,
+    "contact": 77,
+    "power": 94,
+    "speed": 61,
+    "defense": 70,
+    "throwing": 88,
+    "marketValue": 620000
+  }
+]
